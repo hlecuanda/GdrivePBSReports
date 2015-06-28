@@ -36,4 +36,4 @@ You've been warned.
 
 Stuff happens on the devel branch.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-26756841-3/GdrivePBSReports/Repo)](https://github.com/igrigorik/ga-beacon?flat)
+[![Analytics](https://ga-beacon.appspot.com/UA-26756841-3/GdrivePBSReports/Devel)](https://github.com/igrigorik/ga-beacon?flat)
